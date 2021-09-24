@@ -1,0 +1,8 @@
+greet=hi | hello
+curse=shit | fuck
+question=? | why?
+random_response=no | yes | I dont think so
+curse_response=rude | Dont say that
+question_response=??? | No idea
+morning_message=Good Morning
+night_message=Good Night
